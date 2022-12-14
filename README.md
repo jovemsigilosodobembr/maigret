@@ -21,10 +21,9 @@
 <i>O comissário Jules Maigret é um detetive fictício da polícia francesa, criado por Georges Simenon. Seu método de investigação é baseado na compreensão da personalidade de diferentes pessoas e suas interações.</i>
 
 
-
+## Sobre
 
 **Maigret** coleta um dossiê de uma pessoa **apenas pelo nome de usuário**, verificando contas em um grande número de sites e reunindo todas as informações disponíveis nas páginas da web. Nenhuma chave de API necessária. Maigret é um fork poderoso e fácil de usar do [Sherlock](https://github.com/sherlock-project/sherlock).
-
 
 
 ```
