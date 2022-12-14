@@ -23,6 +23,10 @@
 
 
 
+**Maigret** coleta um dossiê de uma pessoa **apenas pelo nome de usuário**, verificando contas em um grande número de sites e reunindo todas as informações disponíveis nas páginas da web. Nenhuma chave de API necessária. Maigret é um fork poderoso e fácil de usar do [Sherlock](https://github.com/sherlock-project/sherlock).
+
+
+
 ```
 git clone https://github.com/gilmarscript/Maigret
 ```
