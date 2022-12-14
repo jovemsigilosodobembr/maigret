@@ -8,7 +8,9 @@ pip install certifi
 pip install chardet2
 pip install colorama
 pip install future
-pip install html5libpip install future-annotations
+pip install html5
+pip install html5lib
+pip install future-annotations
 pip install idna
 pip install Jinja
 pip install lxml
