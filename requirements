@@ -1,3 +1,16 @@
+echo ("Instalando 40 Dependencias")
+
+sleep(6) #Tempo
+
+cls or clear 
+
+echo ("Tenha paciencia")
+echo("Isso Pode levar algum tempo")
+
+sleep(5)
+
+cls or clear 
+
 pip install aiodns
 pip install aiohttp
 pip install aiohttp-socks
