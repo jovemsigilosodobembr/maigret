@@ -40,3 +40,7 @@ bash requirements
 ````
 ./maigret.py gilmarscript
 ````
+
+````
+python3 maigret.py gilmarscript
+````
