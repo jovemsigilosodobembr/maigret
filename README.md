@@ -32,7 +32,11 @@ git clone https://github.com/gilmarscript/Maigret
 
 ```
 cd Maigret
+bash requirements
 ```
 
-*** Como Usar ***
+*** Como Usar***
+
+````
 ./maigret.py gilmarscript
+````
