@@ -13,7 +13,7 @@ def run():
             loop = asyncio.get_event_loop()
             loop.run_until_complete(main())
     except KeyboardInterrupt:
-        print('Maigret is interrupted.')
+        print('Maigret é interrompido.')
         sys.exit(1)
 
 
