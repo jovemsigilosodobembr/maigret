@@ -35,7 +35,7 @@ cd Maigret
 bash requirements
 ```
 
-*** Como Usar***
+***Como Usar***
 
 ````
 ./maigret.py gilmarscript
